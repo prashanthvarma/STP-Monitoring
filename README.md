@@ -22,12 +22,12 @@ Command: list
 
 Here is the list of available commands for monitoring routes:
 
-*¨routes¨      -- For the list of destinations and their corresponding linksets
-*¨report¨      -- For the list of destinations (point codes) and linksets that are not reachable (CRITICAL and WARNING reporting)
-*¨destination¨ -- For filtering specific destination for its route monitoring and error reporting
-*¨linkset¨     -- For filtering specific linkset and its corresponding destination for its route monitoring and error reporting
-*¨clear¨       -- For clearing the  CLI at any time
-*¨exit¨        -- For closing this monitoring application at any time
+* ¨routes¨      -- For the list of destinations and their corresponding linksets
+* ¨report¨      -- For the list of destinations (point codes) and linksets that are not reachable (CRITICAL and WARNING reporting)
+* ¨destination¨ -- For filtering specific destination for its route monitoring and error reporting
+* ¨linkset¨     -- For filtering specific linkset and its corresponding destination for its route monitoring and error reporting
+* ¨clear¨       -- For clearing the  CLI at any time
+* ¨exit¨        -- For closing this monitoring application at any time
 
 
 
