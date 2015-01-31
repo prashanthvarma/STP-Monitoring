@@ -2,13 +2,13 @@
 STP Route Monitoring
 
 
-***System Description***
+#***System Description***
 
 Python 2.7.3 (default, Feb 27 2014, 20:00:17) 
 [GCC 4.6.3] on linux2
 
 
-***Monitoring CLI***
+#***Monitoring CLI***
 
 Enter a command to monitor routes...
 
@@ -31,27 +31,27 @@ Here is the list of available commands for monitoring routes:
 
 
 
-***Example log***
+#***Example log***
 
 Logs/Routes
 
 
-***Example error report***
+#***Example error report***
 
 Monitoring routes...
 
 
-#***NOTE***
+***NOTE***
 
 Destination (Point Code)  4176  is reachable only via a single connection in XUA routing table, its linkset(s) are unavailable
 
 
-#***WARNING***
+***WARNING***
 
 Following linkset(s) in destination (Point Code)  4201  is/are unavailable but the destination is reachable: 
 INAT-LS-BICS2
 
 
-#***CRITICAL***
+***CRITICAL***
 
 Destination (Point Code)  4550  is not reachable
