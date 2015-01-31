@@ -41,17 +41,17 @@ Logs/Routes
 Monitoring routes...
 
 
-***NOTE***
+# ***NOTE***
 
 Destination (Point Code)  4176  is reachable only via a single connection in XUA routing table, its linkset(s) are unavailable
 
 
-***WARNING***
+# ***WARNING***
 
 Following linkset(s) in destination (Point Code)  4201  is/are unavailable but the destination is reachable: 
 INAT-LS-BICS2
 
 
-***CRITICAL***
+# ***CRITICAL***
 
 Destination (Point Code)  4550  is not reachable
