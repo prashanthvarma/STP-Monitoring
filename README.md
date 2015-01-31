@@ -1,7 +1,6 @@
 # STP_Monitoring
 STP Route Monitoring
 
-STP Monitoring Application
 
 => System Description:
 
