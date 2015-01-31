@@ -33,7 +33,7 @@ Here is the list of available commands for monitoring routes:
 
 #***Example Log***
 
-Logs/Routes
+File Path: Logs/Routes
 
 
 #***Example Error Report***
