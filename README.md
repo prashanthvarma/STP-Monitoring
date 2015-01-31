@@ -2,7 +2,7 @@
 STP Route Monitoring Application
 
 
-#***System Description***
+#***System Compatability***
 
 Python 2.7.3 (default, Feb 27 2014, 20:00:17) 
 [GCC 4.6.3] on linux2
